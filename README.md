@@ -9,4 +9,4 @@
 
 scrapy crawl lianjia
 
-运行house.cal.py处理json文件生成图表
+运行house_cal.py处理json文件生成图表
